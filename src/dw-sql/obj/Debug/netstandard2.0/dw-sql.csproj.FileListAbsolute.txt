@@ -1,0 +1,9 @@
+C:\src\dataventure-io\dw\src\dw-sql\bin\Debug\netstandard2.0\dw-sql.deps.json
+C:\src\dataventure-io\dw\src\dw-sql\bin\Debug\netstandard2.0\dw-sql.dll
+C:\src\dataventure-io\dw\src\dw-sql\bin\Debug\netstandard2.0\dw-sql.pdb
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.csproj.CoreCompileInputs.cache
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.AssemblyInfoInputs.cache
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.AssemblyInfo.cs
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.dll
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.pdb
+C:\src\dataventure-io\dw\src\dw-sql\obj\Debug\netstandard2.0\dw-sql.csprojAssemblyReference.cache

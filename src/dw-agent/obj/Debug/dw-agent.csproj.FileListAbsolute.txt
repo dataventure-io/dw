@@ -1,0 +1,7 @@
+C:\src\dataventure-io\dw\src\dw-agent\bin\Debug\dw-agent.exe.config
+C:\src\dataventure-io\dw\src\dw-agent\bin\Debug\dw-agent.exe
+C:\src\dataventure-io\dw\src\dw-agent\bin\Debug\dw-agent.pdb
+C:\src\dataventure-io\dw\src\dw-agent\obj\Debug\dw-agent.csproj.CoreCompileInputs.cache
+C:\src\dataventure-io\dw\src\dw-agent\obj\Debug\dw-agent.exe
+C:\src\dataventure-io\dw\src\dw-agent\obj\Debug\dw-agent.pdb
+C:\src\dataventure-io\dw\src\dw-agent\obj\Debug\dw-agent.csprojAssemblyReference.cache

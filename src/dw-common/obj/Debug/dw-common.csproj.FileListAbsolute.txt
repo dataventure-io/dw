@@ -1,0 +1,8 @@
+C:\src\dataventure-io\dw\src\dw-common\bin\Debug\dw-common.dll
+C:\src\dataventure-io\dw\src\dw-common\bin\Debug\dw-common.pdb
+C:\src\dataventure-io\dw\src\dw-common\bin\Debug\Newtonsoft.Json.dll
+C:\src\dataventure-io\dw\src\dw-common\bin\Debug\Newtonsoft.Json.xml
+C:\src\dataventure-io\dw\src\dw-common\obj\Debug\dw-common.csproj.CoreCompileInputs.cache
+C:\src\dataventure-io\dw\src\dw-common\obj\Debug\dw-common.csproj.CopyComplete
+C:\src\dataventure-io\dw\src\dw-common\obj\Debug\dw-common.dll
+C:\src\dataventure-io\dw\src\dw-common\obj\Debug\dw-common.pdb
